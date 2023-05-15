@@ -38,7 +38,7 @@ Realizar consultas no banco de dados com o TypeORM de três formas:
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/Thifany-Nicastro/IgniteNode-ChapterIII-Desafio01.git
+$ git clone https://github.com/DavCarvalho/DataBaseQueries.git
 
 # Entre na pasta
 $ cd IgniteNode-ChapterIII-Desafio01
